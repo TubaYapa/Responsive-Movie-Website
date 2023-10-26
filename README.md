@@ -1,5 +1,6 @@
 # Responsive-Movie-Website
-![Uploading ezgif.com-video-to-gif.gif…]()
+
+![ezgif com-video-to-gif](https://github.com/tubayapa/Responsive-Movie-Website/assets/147662888/0012c496-383b-4b81-a349-42b886e32737)
 
 Explore the world of movies with our responsive website crafted using HTML5, CSS3, and JavaScript. Discover your favorite films and get detailed information at your fingertips.
 
